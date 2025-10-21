@@ -36,7 +36,7 @@ export default function AboutPage() {
         >
           <h2 className="text-3xl font-bold text-gray-900 mb-6">프로젝트 비전</h2>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            본 프로젝트는 광복 100주년을 맞아 대한민국 국민이 직접 만들고, 국민을 위해 영구히 보존되며, 다음 세대와 소통하는 살아있는 디지털 아카이브이자 타임캡슐, <span className="font-bold text-indigo-600">'광복 100년의 약속'</span>을 구축할 것을 제안합니다.
+            본 프로젝트는 광복 100주년을 맞아 대한민국 국민이 직접 만들고, 국민을 위해 영구히 보존되며, 다음 세대와 소통하는 살아있는 디지털 아카이브이자 타임캡슐, <span className="font-bold text-indigo-600">&apos;광복 100년의 약속&apos;</span>을 구축할 것을 제안합니다.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             이 사업은 광복의 첫 100년(1945~2045)과 다가올 100년을 잇는 견고한 다리 역할을 수행할 것입니다.
@@ -57,7 +57,7 @@ export default function AboutPage() {
               <h3 className="text-2xl font-bold text-gray-900 mb-4">기억의 빛</h3>
               <p className="text-gray-700 mb-4">과거와 현재의 기록</p>
               <p className="text-gray-600 leading-relaxed">
-                광복의 순간부터 오늘에 이르기까지, 대한민국 국민 개개인의 다채롭고 생생한 삶의 이야기를 수집, 보존하고, 세상에 비추는 기능입니다. 독립운동가 후손들의 숨겨진 이야기부터 K-컬처를 이끄는 창작자들의 열정까지, 살아 숨 쉬는 '민중의 역사'를 완성합니다.
+                광복의 순간부터 오늘에 이르기까지, 대한민국 국민 개개인의 다채롭고 생생한 삶의 이야기를 수집, 보존하고, 세상에 비추는 기능입니다. 독립운동가 후손들의 숨겨진 이야기부터 K-컬처를 이끄는 창작자들의 열정까지, 살아 숨 쉬는 &apos;민중의 역사&apos;를 완성합니다.
               </p>
             </div>
           </motion.div>
@@ -140,7 +140,7 @@ export default function AboutPage() {
             공모전의 근본 취지 구현
           </h3>
           <p className="text-xl leading-relaxed mb-6">
-            '국민과 함께하는 광복 100년 실현'을 정면으로 구현하는 프로젝트
+            &apos;국민과 함께하는 광복 100년 실현&apos;을 정면으로 구현하는 프로젝트
           </p>
           <p className="text-lg opacity-90">
             1차 단계부터 100주년, 그리고 그 이후까지 지속 가능한 국가적 유산을 만들어갑니다

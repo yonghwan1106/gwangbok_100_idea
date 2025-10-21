@@ -97,7 +97,7 @@ export default function ConceptPage() {
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <span className="text-amber-500 mr-3 text-xl">•</span>
-                  <span className="text-gray-700">공식적인 역사 기록을 넘어, 살아 숨 쉬는 '민중의 역사' 완성</span>
+                  <span className="text-gray-700">공식적인 역사 기록을 넘어, 살아 숨 쉬는 &apos;민중의 역사&apos; 완성</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-amber-500 mr-3 text-xl">•</span>
@@ -227,8 +227,8 @@ export default function ConceptPage() {
             과거와 미래의 완벽한 연결
           </h3>
           <p className="text-xl leading-relaxed">
-            <span className="font-bold">'기억의 빛'</span>으로 과거를 보존하고,<br />
-            <span className="font-bold">'미래의 길'</span>로 미래를 설계합니다
+            <span className="font-bold">&apos;기억의 빛&apos;</span>으로 과거를 보존하고,<br />
+            <span className="font-bold">&apos;미래의 길&apos;</span>로 미래를 설계합니다
           </p>
         </motion.div>
       </section>
